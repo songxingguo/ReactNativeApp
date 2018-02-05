@@ -2,16 +2,16 @@
 ================================
 ##项目描述
 --------------------------------
-  这是我的第一个ReactNativeApp<br> 
+  这是我的第一个ReactNativeApp
 ##运行方式
 ---------------------------------
-  1、下载项目压缩包<br>
-  2、解压后，在cmd中进入到项目根目录<br>
-  3、使用命令 npm install 下载项目需要的资源<br>  
-  4、使用命令 npm start 或 react-native run-android/run-ios 启动服务<br>  
-  5、使用android studio 打开项目中——>android目录<br>  
-  6、将代码发布到手机或模拟器上<br>  
-  7、点击react-native 自带的调试工具relode<br>  
+      1、下载项目压缩包
+      2、解压后，在cmd中进入到项目根目录
+      3、使用命令 npm install 下载项目需要的资源
+      4、使用命令 npm start 或 react-native run-android/run-ios 启动服务
+      5、使用android studio 打开项目中——>android目录
+      6、将代码发布到手机或模拟器上
+      7、点击react-native 自带的调试工具relode
  ##项目构建 
  ---------------------------------
    1、下载node.js安装完之后更改镜像源 npm install -g cnpm –registry=https://registry.npm.taobao.org<br>  
