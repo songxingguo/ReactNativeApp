@@ -19,6 +19,7 @@ ReactNativeApp
       
 项目构建   
  ---------------------------------  
+ 参考慕课网址：https://www.imooc.com/learn/808  
  ```
  1、下载node.js安装完之后更改镜像源 npm install -g cnpm –registry=https://registry.npm.taobao.org  
  2、npm install -g yarn react-native-cli下载rn的客户端  
